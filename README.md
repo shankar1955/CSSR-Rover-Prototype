@@ -150,30 +150,6 @@ This prototype addresses critical challenges in Collapsed Structure Search and R
 
 ---
 
-## 📂 Repository Structure
-
-```
-CSSR-Rover/
-├── firmware/
-│   ├── esp32_main.ino              # Main microcontroller code
-│   ├── thermal_detection.cpp       # Thermal sensor algorithms
-│   ├── ultrasonic_obstacle.cpp     # Obstacle detection logic
-│   └── path_planning.cpp           # Navigation algorithms
-├── hardware/
-│   ├── schematics/                 # Circuit diagrams (motor driver, sensor interface)
-│   ├── PCB_layout/                 # Custom board designs
-│   └── BOM.xlsx                    # Bill of Materials
-├── docs/
-│   ├── project_report.pdf          # Full technical report
-│   ├── testing_results.md          # Performance data and validation
-│   └── calibration_guide.md        # Sensor setup and tuning
-├── datasets/
-│   └── thermal_signatures/         # Training data for ML (future)
-└── README.md                        # This file
-```
-
----
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -217,37 +193,7 @@ This project is developed as part of an academic engineering curriculum and is a
 Department of Electrical and Electronics Engineering  
 Chennai Institute of Technology, Chennai-69
 
----
 
-## 📞 Contact & Support
-
-For technical queries, documentation requests, or collaboration opportunities:
-- **Email:** [your-email@example.com]
-- **GitHub Issues:** [Link to repo issues]
-- **Lab Contact:** [Faculty Advisor Name]
-
----
-
-## 🙏 Acknowledgments
-
-Special thanks to:
-- Dr. R. Sankar, Head of Department (EEE)
-- Mrs. Sankari, Faculty Coordinator
-- Chennai Institute of Technology for facilities and support
-- All lab instructors and team members who contributed to this project
-
----
-
-**Status:** ✅ Prototype Complete | 📊 Testing Phase Complete | 🔄 Optimization Ongoing
-
----
-
-## 📚 References
-
-- IEEE Xplore: "Robotic Assistance in Search and Rescue Operations"
-- SpringerLink: "Collaborative Multi-Robot Systems for Search and Rescue"
-- Project Reports: ICARUS, NIFTi, AutoSOS, SmokeBot SAR initiatives
-- Thermal Imaging & GPR in SAR Operations - Research compilation
 
 ---
 
