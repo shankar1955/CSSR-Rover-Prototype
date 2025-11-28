@@ -160,7 +160,7 @@ This prototype addresses critical challenges in Collapsed Structure Search and R
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/CSSR-Rover.git
+git clone https://github.com/shankar1955/CSSR-Rover-Prototype.git
 cd CSSR-Rover
 
 # Install dependencies
